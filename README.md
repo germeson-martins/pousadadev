@@ -1,2 +1,2 @@
 # pousadadev
-Primeiro Projeto com HTML e CSS feto com a DevMedia.
+Primeiro Projeto  em HTML e CSS pela DevMedia. Disponivel em: https://codemartins.github.io/pousadadev/
